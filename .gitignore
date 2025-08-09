@@ -1,4 +1,6 @@
-output/*
+output/realData/*
+output/sim/*
+
 !.gitkeep
 
 # History files
