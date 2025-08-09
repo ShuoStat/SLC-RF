@@ -1,5 +1,5 @@
-#output/realData/*
-#output/sim/*
+output/realData/.gitkeep
+output/sim/.gitkeep
 
 !.gitkeep
 
