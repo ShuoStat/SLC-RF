@@ -12,7 +12,7 @@ We propose a novel random forest-based method with a two-layer structure, called
 ├── results/
 └── README.md
 ```
-`codes` Scripts for reproducing the results. Inside are codes for both real data application and simulation study. 
+`codes` Scripts for reproducing the results. Inside are codes for both real data application and simulation study.      
 `data` Real-world datasets used for model development.    
 `output` Intermediate results and temporary outputs.      
 `results` Final processed results. 
