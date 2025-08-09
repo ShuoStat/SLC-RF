@@ -18,9 +18,6 @@ We propose a novel random forest-based method with a two-layer structure, called
 `results` Final processed results. 
 
 
-### Functions in side codes
-
-
 ### Reproducing the Results
 
 Run *1_runReal.R* step by step to generate the results of real-world application  
